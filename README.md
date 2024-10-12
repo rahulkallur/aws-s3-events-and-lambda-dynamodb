@@ -20,5 +20,5 @@ S3 Read Access: To read the S3 event and capture file details.
 DynamoDB Write Access: To insert records into the specified DynamoDB table.
 CloudWatch Logs Access: For logging Lambda execution data.
 
-# sConclusion
+# Conclusion
 This Lambda function automates the process of capturing S3 upload events and storing metadata in DynamoDB, allowing you to track file uploads in your AWS environment.
